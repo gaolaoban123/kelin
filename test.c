@@ -1,4 +1,5 @@
 include<stdio.h>
 int main(){
-	while(1)
+	printf("adsdfdsafds\n");
+	printf("eirueiryeiryierwe\n");
 }
